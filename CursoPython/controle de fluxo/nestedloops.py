@@ -1,0 +1,7 @@
+""""
+nested loops
+"""
+for numero1 in range(1,5):
+    print('produto'+ str(numero1))
+    for numero2 in range (5):
+        print(numero1,numero2)
